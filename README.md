@@ -1,1 +1,1 @@
-# CS-55-FinalProject
+# COSC55-FinalProject
