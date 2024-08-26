@@ -3,57 +3,41 @@
 **Due Date:** August 27th, 11:59 PM  
 **Team Members:** Kevin Guo and Arnav Singh
 
-Welcome to our team’s repository and wiki for the COSC55 Final Project. This README will guide you through our project and wiki documentation.
-
-## Repository Structure
-
-All our project documentation is maintained in the GitHub wiki. Navigate to the wiki section and select the relevant page for detailed information. We have organized our content into modules:
-
-- **Module 2:** System Design
-- **Module 3:** Creation of Environment and Testing
-- **Module 4:** Security Implementation Walkthrough and Security Technical Summary
-- **Resources:** Initial and Final Resource Pages outlining our references and guides
+Welcome to our COSC55 Final Project repository! This README provides an overview of our project, including its objectives, structure, and achievements.
 
 ## Project Overview
 
-### Key Metrics:
-- **12 AWS Resources Used**  
-- **20+ Hours Spent on Implementation**  
-- **Countless Challenges Overcome**  
-- **2 of us Learning In-Depth AWS Knowledge**
+Our project focuses on designing, implementing, and securing a cloud-based application environment using Amazon Web Services (AWS). The goal is to simulate a real-world web application scenario where security, monitoring, and scalability are crucial for the maintaince and running of a website on the internet. 
 
-### AWS Resources Utilized:
-- EC2
-- S3
-- CloudTrail
-- CloudWatch
-- IAM
-- KMS
-- Lambda
-- RDS
-- VPC
-- AWS Shield
-- WAF
-- AWS Certificate Manager
+## Repository Structure
 
-### Project Focus:
-Our project centers around building a secure cloud environment for a hypothetical organization with an employee directory application. This project involves setting up secure data storage, access management, and monitoring, using a variety of AWS services.
+Our documentation and project details are organized into sections available in the Wiki:
 
-Initially, we aimed to focus on encryption using Amazon KMS and IAM for strict user roles and access control, while leveraging CloudWatch and CloudTrail for logging and monitoring. However, due to challenges with learner account permissions, we adjusted our focus to include alternative AWS security solutions and still met our learning objectives.
+- **Home**: Introduction to the project and its objectives.
+- **Milestone 2**: Details on the initial project setup and architectural design, including the conceptualization of the environment.
+- **Milestone 3**: Step-by-step instructions for creating the AWS environment, including setting up VPCs, EC2 instances, and database services.
+- **Milestone 4**: Focuses on implementing cloud security solutions, including encryption, IAM roles, and monitoring services.
+- **Technical Summary**: A comprehensive summary that ties together the technical details and testing outcomes from all milestones.
 
-## Project Reflection
+## Key Features
 
-As a team, we faced challenges, especially with limited permissions in our learner accounts, preventing us from using certain IAM features. This limitation forced us to adapt and find creative solutions using other AWS resources, which ultimately enhanced our project and deepened our understanding of cloud security.
+1. **AWS Services Utilized**: VPC, EC2, S3, RDS, IAM, CloudTrail, CloudWatch, KMS, and more.
+2. **Security Enhancements**: Implemented using IAM for access control, KMS for encryption, CloudWatch for monitoring, and CloudTrail for auditing.
+3. **Scalability**: Infrastructure designed to accommodate varying levels of demand while maintaining security and performance.
 
-Despite the setbacks, we successfully implemented several AWS security features, ensuring a robust and secure cloud environment for our hypothetical application. This experience taught us the importance of flexibility and problem-solving when working with cloud technologies.
+## Learning Outcomes
+
+Throughout this project, our team gained practical experience with AWS, focusing on deploying secure, scalable cloud environments. We enhanced our skills in configuring AWS services, implementing security measures, and conducting thorough testing and monitoring.
 
 ## Conclusion
 
-This project has been a valuable learning experience, providing us with practical skills in cloud computing, security, and AWS services. Our teamwork and adaptability allowed us to overcome challenges and deliver a secure cloud solution, preparing us for future endeavors in cloud security and beyond.
+The COSC55 Final Project has been a valuable learning experience, providing insights into cloud security and architecture. Our hands-on approach has prepared us for real-world challenges in cloud computing and cybersecurity.
+
+Feel free to reach out if you have questions or need further information.
 
 ### Acknowledgments
 
-We would like to extend our gratitude to Professor Adam Goldstein for his guidance and support throughout this project. His expertise in cloud computing and AWS was instrumental in our success.
+We would like to extend our greatest gratitude to Professor Adam Goldstein for his guidance and support throughout this project. His expertise in cloud computing and AWS was instrumental in our success.
 
 ---
 
