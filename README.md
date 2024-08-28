@@ -19,6 +19,11 @@ Our documentation and project details are organized into sections available in t
 - **Milestone 4**: Focuses on implementing cloud security solutions, including encryption, IAM roles, and monitoring services.
 - **Technical Summary**: A comprehensive summary that ties together the technical details and testing outcomes from all milestones.
 
+We've also included some of the code we used:
+- **index.html**: html code for web application interface
+- **app.js**: javascript code to handle integrating AWS Cognito
+- **lambda.py**: python code for lambda function to isolate EC2 instance
+
 ## Key Features
 
 1. **AWS Services Utilized**: VPC, EC2, S3, WAF, CloudTrail, CloudWatch, KMS, and more.
