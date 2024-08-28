@@ -21,8 +21,8 @@ Our documentation and project details are organized into sections available in t
 
 ## Key Features
 
-1. **AWS Services Utilized**: VPC, EC2, S3, RDS, IAM, CloudTrail, CloudWatch, KMS, and more.
-2. **Security Enhancements**: Implemented using IAM for access control, KMS for encryption, CloudWatch for monitoring, and CloudTrail for auditing.
+1. **AWS Services Utilized**: VPC, EC2, S3, WAF, CloudTrail, CloudWatch, KMS, and more.
+2. **Security Enhancements**: Implemented using WAF for firewall protection, KMS for encryption, CloudWatch for monitoring, and CloudTrail for auditing.
 3. **Scalability**: Infrastructure designed to accommodate varying levels of demand while maintaining security and performance.
 
 ## Learning Outcomes
